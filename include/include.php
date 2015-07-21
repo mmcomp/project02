@@ -1,0 +1,10 @@
+<?php
+require_once("config.php");
+require_once("hejri_shamsi_calendar.php");
+require_once("class/category.php");
+require_once("class/post_category.php");
+require_once("class/post.php");
+require_once("class/comment.php");
+require_once("class/user.php");
+require_once("PHPMailer/class.phpmailer.php");
+require_once("PHPMailer/class.smtp.php");
